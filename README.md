@@ -7,6 +7,6 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 # Tasks
-1.Create the metrics according to the metric list.
-2.Create a dashboard according to the mock-up provided by stakeholders.
-3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
+*1.Create the metrics according to the metric list.
+*2.Create a dashboard according to the mock-up provided by stakeholders.
+*3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
